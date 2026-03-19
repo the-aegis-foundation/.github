@@ -8,7 +8,7 @@
 
 >[!IMPORTANT]
 > All development for **Aegis** is not due at least until the Bill is almost in Act, and the Main Components of the Operating System are in stable condition.
-> Currently, as it stands, Progress is currently being put into **(YaWC)[https://gitlab.com/yawc.rs]** *(Yet another Wayland Compositor)*
+> Currently, as it stands, Progress is currently being put into **[YaWC](https://gitlab.com/yawc.rs)** *(Yet another Wayland Compositor)*
 
 ## Contents of this README
 
@@ -33,7 +33,7 @@ I plan on making the whole system from the ground up in **rust** and **c**, all 
 ### Core Components
 
 - **Compositor**  
-  *(YaWC – Yet Another Wayland Compositor)[https://gitlab.com/yawc.rs]*
+  *[YaWC – Yet Another Wayland Compositor](https://gitlab.com/yawc.rs)*
 
 - **Init System**  
   Responsible for bootstrapping user space and managing system initialization.
