@@ -1,5 +1,5 @@
 # Aegis
-## > An All-in-One Operating System focused on **Privacy** and **Anonymity**.
+## An All-in-One Operating System focused on **Privacy** and **Anonymity**.
 
 >[!NOTE]
 > When we refer to **Aegis**, we mean both the project itself and the developers behind it.  
