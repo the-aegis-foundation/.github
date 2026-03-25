@@ -1,5 +1,6 @@
 # Aegis
-## An All-in-One Operating System focused on **Privacy** and **Anonymity**.
+
+## An All-in-One Operating System focused on **Privacy** and **Anonymity**
 
 >[!NOTE]
 > When we refer to **Aegis**, we mean both the project itself and the developers behind it.  
@@ -26,7 +27,7 @@
   - [How does **Aegis** respond?](#how-does-aegis-respond)
   - [The goal](#the-goal)
 
-## The Structure.
+## The Structure
 
 I plan on making the whole system from the ground up in **rust** and **c**, all except the **Kernel**, which to no surprise, is the **Linux Kernel**.
 
@@ -41,10 +42,10 @@ I plan on making the whole system from the ground up in **rust** and **c**, all 
 - **Daemon Supervisor**  
   Handles background processes, system services, and lifecycle management.
 
-- **Compiler**
+- **Compiler**  
   Do I need to explain what a compiler does?
 
-- **Firewall**
+- **Firewall**  
   You know what a firewall is right?
 
 ---
@@ -52,6 +53,7 @@ I plan on making the whole system from the ground up in **rust** and **c**, all 
 ### Userland Utilities
 
 > Core Tools:
+>>
 >> - **Shell**
 >> - **File Utilities**
 >> - **Process Management Tools**
@@ -113,7 +115,8 @@ I plan on making the whole system from the ground up in **rust** and **c**, all 
 ---
 
 ## What is the goal of **Aegis**?
-### The goal of **Aegis** is to restore and protect the user’s right to privacy and anonymity in an increasingly restrictive digital landscape, and to fight the current act 
+
+### The goal of **Aegis** is to restore and protect the user’s right to privacy and anonymity in an increasingly restrictive digital landscape, and to fight the current act
 
 #### What is Assembly Bill No. 1043?
 
@@ -159,7 +162,6 @@ Policies that reduce or eliminate anonymity don’t just affect users—they fun
 
 - **It undermines the philosophy of user freedom**  
   Linux has always been about control, choice, and independence. Systems that require identification contradict those principles at a fundamental level.
-
 
 In short, reducing anonymity doesn’t just impact individual privacy—it threatens the open, decentralized model that Linux and the broader open-source world depend on.
 
