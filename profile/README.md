@@ -41,6 +41,12 @@ I plan on making the whole system from the ground up in **rust** and **c**, all 
 - **Daemon Supervisor**  
   Handles background processes, system services, and lifecycle management.
 
+- **Compiler**
+  Do I need to explain what a compiler does?
+
+- **Firewall**
+  You know what a firewall is right?
+
 ---
 
 ### Userland Utilities
